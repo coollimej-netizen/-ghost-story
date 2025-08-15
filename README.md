@@ -98,8 +98,8 @@
     // ▼ 여기를 수정해서 각 괴담의 이미지 파일 경로를 넣으세요.
     // 빈 문자열("")이면 이미지 대신 안내 문구가 표시됩니다.
     const STORIES = [
-      { name: "빨간색", img: "" },               // 예: "images/school-ghost.jpg"
-      { name: "버려진 산장", img: "images/tunnel.jpg" },
+      { name: "버려진 산장", : "" },               // 예: "images/school-ghost.jpg"
+      { name: "빨간색", img: "images/tunnel.jpg.jpg" },
       { name: "산불", img: "images/hospital.png" }
     ];
 
